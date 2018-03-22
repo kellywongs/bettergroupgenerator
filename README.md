@@ -1,2 +1,2 @@
-# bettergroupgenerator
+# better group generator
 a better random group generator than MB's fourth Google search result he found six years ago
